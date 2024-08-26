@@ -12,3 +12,7 @@ Require Python 3.7.2
 - torch 1.7.1
 - numpy 1.21.6
 - scikit-learn 1.0.2
+
+### Quick Running and Testing
+
+- Run  `test.py` for multi-feature open-set learning tasks to see the OSCR performance. 
