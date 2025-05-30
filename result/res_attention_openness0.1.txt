@@ -1,1 +1,19 @@
 
+thre:0.1,batch_size:128,epoch:150,openness:0.1, unseen_num:16,block:4,beta:0.7,lamb:0.01
+ dataset:animals,AUOSCR_score:80.09,OpenOSR:78.28(thresholds:1.2200000286102295),softmax_ccrs:[24.05, 42.67, 47.71, 64.74, 71.05, 82.76, 85.84]
+
+thre:0.1,batch_size:128,epoch:150,openness:0.1, unseen_num:2,block:4,beta:0.7,lamb:0.01
+ dataset:esp_game,AUOSCR_score:75.03,OpenOSR:74.23(thresholds:0.7099999785423279),softmax_ccrs:[1.25, 7.98, 10.5, 30.84, 50.33, 83.28, 86.26]
+
+thre:0.1,batch_size:128,epoch:150,openness:0.1, unseen_num:21,block:4,beta:0.7,lamb:0.1
+ dataset:MITIndoor,AUOSCR_score:45.97,OpenOSR:50.92(thresholds:0.4000000059604645),softmax_ccrs:[0.24, 2.47, 5.47, 18.96, 25.68, 50.02, 61.24]
+
+thre:0.1,batch_size:128,epoch:150,openness:0.1, unseen_num:10,block:4,beta:0.7,lamb:0.01
+ dataset:NUSWIDEOBJ,AUOSCR_score:31.64,OpenOSR:47.75(thresholds:3.5999999046325684),softmax_ccrs:[1.91, 4.31, 6.18, 13.43, 18.14, 34.17, 41.52]
+
+thre:0.1,batch_size:128,epoch:150,openness:0.1, unseen_num:3,block:4,beta:0.7,lamb:0.01
+ dataset:NoisyMNIST_70000,AUOSCR_score:86.01,OpenOSR:80.54(thresholds:1.2100000381469727),softmax_ccrs:[17.1, 28.85, 36.5, 58.53, 69.27, 91.57, 94.91]
+
+thre:0.1,batch_size:128,epoch:150,openness:0.1, unseen_num:3,block:4,beta:0.7,lamb:0.1
+ dataset:OutdoorScene,AUOSCR_score:72.06,OpenOSR:72.38(thresholds:3.059999942779541),softmax_ccrs:[None, 7.72, 15.67, 42.0, 54.81, 77.41, 82.34]
+
