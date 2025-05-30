@@ -4,7 +4,7 @@ OpenMvL is a framework for mprove open-set learning through multiple feature fus
 
 ### Installation
 1. **Clone the repository:**
-- git clone https://anonymous.4open.science/r/OpenEnhancer-084E/
+- git clone https://github.com/dushide/OpenEnhancer
 - cd OpenEnhancer
 2. **Set up the environment:**
 Use Conda to create an environment with the required dependencies:
