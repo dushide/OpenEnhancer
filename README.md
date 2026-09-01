@@ -3,9 +3,7 @@
 OpenEnhancer is a framework for open-set learning through multiple feature fusion that integrates feature-specific sparse learning module and multi-feature attention fusion module. This repository contains the code and datasets used for the experiments in our paper.
 
 ### Installation
-1. **Clone the repository:**
-- git clone https://github.com/dushide/OpenEnhancer
-- cd OpenEnhancer
+1. **Clone the repository.**
 2. **Set up the environment:**
 Use Conda to create an environment with the required dependencies:
 - conda create -n OpenEnhancer python=3.7.2
