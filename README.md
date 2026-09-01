@@ -1,6 +1,6 @@
 
 ## OpenEnhancer
-OpenMvL is a framework for mprove open-set learning through multiple feature fusion that integrates feature-specific sparse learning module and multi-feature attention fusion module. This repository contains the code and datasets used for the experiments in our paper.
+OpenEnhancer is a framework for open-set learning through multiple feature fusion that integrates feature-specific sparse learning module and multi-feature attention fusion module. This repository contains the code and datasets used for the experiments in our paper.
 
 ### Installation
 1. **Clone the repository:**
