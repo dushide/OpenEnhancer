@@ -26,4 +26,4 @@ Run  `test.py` for multi-feature open-set learning tasks to see the OSCR perform
  - For custom datasets, modify the dataset loader in loadMatData.py.
 
 ### Contact
-For further questions or clarifications, please raise an issue in this repository.
+If you have any questions, please feel free to contact dushidems@gmail.com at any time. Thanks.
